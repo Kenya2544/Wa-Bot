@@ -1,8 +1,8 @@
 // - - THANKS TO - -
-// • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
+// • **KENYAN HACKER**
+// • **VIBES KILLER**
+// • **THE HACKER**
+// • **BANK TEAM**
 // • Kannachann
 // • FahriAdison
 // • The.Sad.Boy01
@@ -41,31 +41,31 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
-global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sig = 'https://instagram.com/Hacker' //Link Instagrammu
+global.sgh = 'https://github.com/Kenya2544' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/C6VZpYnbGTI6aQYhfCQlPx'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '9953095' //Mpesa till
+global.ppulsa = '+254710504158' //Mpesa number
+
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94764497078' //Nomor Bot
-global.nomorown = '94764497078' //Nomor Owner
-global.namebot = 'WA-MD-v1' //Nama Bot
-global.nameown = 'sandaru' // Nama Owner
+global.nomorbot = `254710504158` //Nomor Bot
+global.nomorown = '254710504158' //Nomor Owner
+global.namebot = 'HACKER-TECH' //Nama Bot
+global.nameown = 'Kenyan hacker' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94764497078', 'sandaru', true] //Replace your number with your name
+  ['254710504158', 'Kenyan Hacker', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['254710504158',254736813291',] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -97,7 +97,7 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 wa-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
+global.wm = '「 Kenyan Hacker」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘sandaru- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'wa-ᴍᴅ-ᴠ𝟷'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
@@ -109,12 +109,12 @@ global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/cc8jfkX/01.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.thumb = 'https://telegra.ph/file/465c03d85d559d2f1fa65.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/465c03d85d559d2f1fa65.jpg'
 global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.thumblvlup = 'https://telegra.ph/file/465c03d85d559d2f1fa65.jpg'
+global.hwaifu = ['https://telegra.ph/file/465c03d85d559d2f1fa65.jpg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -130,7 +130,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94 76 449 7078'
+global.phn = '+254 710 504158'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
