@@ -21,10 +21,10 @@
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/94764497078">
+  <a href="https://wa.me/254710504158">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto: mdsandaru2@gmail.com">
+  <a href="mailto: extratech@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
@@ -37,6 +37,7 @@
 - ✔️ | **Button Template** 
 - ✔️ | **Multi Device** 
 - ✔️ | **Button Document(Experiment)** 
+ - ✔️ **FAST 24/7 ONLINE**
 ---------
 
 ## ``Group Panelku Hosting``
